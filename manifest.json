@@ -1,0 +1,22 @@
+{
+    "name": "Movistel",
+    "short_name": "Movistel",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "Scope": "/",
+    "start_url": "/",
+    "icons":  
+    [{
+      "src": "img/log.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }, 
+    {
+      "src": "img/log.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+    ],
+    "splash_pages": null
+}
